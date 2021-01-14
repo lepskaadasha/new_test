@@ -55,6 +55,8 @@
         <input type="email" name="check" id="1">
         <input type="button" onclick="zad2()" id="btn_res2" value="Результат"><br>
         <label for="">Результат теста: <input type="text" readonly name="res2" id="res2"></label>
+        <input type="button" onclick="zad2()" id="btn_res2" value="Результат"><br>
+        <label for="">Результат теста: <input type="text" readonly name="res2" id="res2"></label>    
     </form>
 </body>
 </html>
