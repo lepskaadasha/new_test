@@ -51,5 +51,8 @@
         <input type="button" onclick="zad3()" value="Узнать результат"><br>
         <label for="">Площадь параллелограмма:<input type="text" readonly name="res3" id="res3"></label>
     </form>
+    <form class="form4" action="z4.php" method="post">
+        <input type="email" name="check" id="1">
+    </form>
 </body>
 </html>
