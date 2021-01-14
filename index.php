@@ -54,5 +54,7 @@
     <form class="form4" action="z4.php" method="post">
         <input type="email" name="check" id="1">
     </form>
+
+    <input type="email" name="check" id="1">
 </body>
 </html>
